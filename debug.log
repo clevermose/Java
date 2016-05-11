@@ -1,0 +1,165 @@
+[0511/225041:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225041:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225041:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225041:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225041:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/225041:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/225041:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225041:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225041:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225041:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225043:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225043:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225043:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225043:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225043:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/225448:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225448:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225448:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225448:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225448:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/225448:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/225449:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225449:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225449:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225449:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225449:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/225449:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225449:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225449:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225449:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225449:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/225449:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225449:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225449:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225449:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225449:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225449:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225449:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225449:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225449:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/225449:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/225450:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225450:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225450:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225450:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225452:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225452:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225452:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225452:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225452:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/225453:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225453:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225453:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225453:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225453:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/225454:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225454:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225454:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225454:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225454:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/225502:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225502:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225502:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225502:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225502:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/225502:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/225502:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225502:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225502:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225502:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225505:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225505:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225505:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225505:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225505:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/225505:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225505:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225505:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225505:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225505:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/225505:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/225505:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225505:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225505:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225505:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225508:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225508:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225508:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225508:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225508:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/225831:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225831:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225831:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225831:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225831:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/225831:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/225832:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225832:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225832:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225832:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225834:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/225834:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/225834:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/225834:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/225834:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/230114:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230114:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230114:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230114:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230114:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/230114:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/230114:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230114:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230114:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230114:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230117:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230117:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230117:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230117:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230117:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/230121:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230121:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230121:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230121:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230121:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/230121:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/230121:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230121:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230121:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230121:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230125:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230125:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230125:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230125:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230125:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/230132:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230132:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230132:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230132:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230132:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/230132:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/230132:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230132:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230132:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230132:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230134:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230134:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230134:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230134:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230134:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0511/230143:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230143:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230143:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230143:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230143:ERROR:network_change_notifier_win.cc(157)] WSALookupServiceBegin failed with: 1816
+[0511/230143:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0511/230144:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230144:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230144:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230144:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230146:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0511/230146:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0511/230146:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0511/230146:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0511/230146:ERROR:renderer_main.cc(207)] Running without renderer sandbox
